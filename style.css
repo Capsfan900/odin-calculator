@@ -6,7 +6,7 @@ body {
     display: flex;
     height: 100%;
     min-height: 100dvh;
-    background-image: url(/frameV2.png);
+    background-image: url("https://capsfan900.github.io/frameV2.png");
     background-repeat: no-repeat;
     background-size: cover;
     border: 10px solid hsl(219, 89%, 7%);
